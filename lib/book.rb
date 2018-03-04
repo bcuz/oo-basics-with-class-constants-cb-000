@@ -9,8 +9,8 @@ class Book
     @title = title
   end
 
-  def name=(name)
-    @name = name
+  def genre=(genre)
+    @genre = genre
   end
 
   def turn_page
